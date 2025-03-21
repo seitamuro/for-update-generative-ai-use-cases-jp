@@ -47,7 +47,8 @@
       "us.amazon.nova-micro-v1:0"
     ],
     "imageGenerationModelIds": [
-      "amazon.nova-canvas-v1:0"
+      "amazon.nova-canvas-v1:0",
+      "amazon.titan-image-generator-v2:0"
     ],
     "videoGenerationModelIds": [
       "amazon.nova-reel-v1:0"
